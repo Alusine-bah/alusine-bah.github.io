@@ -280,3 +280,6 @@ footer {
   color: #c8d8ee;
   font-size: 0.9rem;
 }
+footer p + p {
+  opacity: 0.75;
+}
