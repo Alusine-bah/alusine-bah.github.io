@@ -127,7 +127,14 @@ a {
   background: #1A3C6E;
   color: #fff;
 }
+.btn-linkedin {
+  background: #0077B5;
+  color: #fff;
+}
 
+.btn-linkedin:hover {
+  background: #005885;
+}
 /* ── Sections ───────────────────────────── */
 .section {
   padding: 70px 60px;
