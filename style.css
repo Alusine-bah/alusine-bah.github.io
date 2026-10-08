@@ -283,3 +283,11 @@ footer {
 footer p + p {
   opacity: 0.75;
 }
+
+
+/* ── Project card buttons: compact size and spacing ── */
+.project-card .btn {
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  margin: 0 8px 10px 0;
+}
